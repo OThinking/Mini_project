@@ -6,5 +6,5 @@
 |김마로|프로젝트 멤버1|
 |오흥천|프로젝트 멤버2|
 
-### Project Github:
+### Project Github: https://github.com/OThinking/Mini_project.git
 ### 발표자료: 
